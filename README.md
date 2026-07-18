@@ -11,3 +11,5 @@ Proyectos de freeCodeCamp - Data Analysis with Python
 3. ✅ **Medical Data Visualizer** — Visualización de datos médicos con matplotlib, seaborn y pandas
 
 4. ✅ **Page View Time Series Visualizer** — Visualización de series temporales con matplotlib y seaborn
+
+5. ✅ **Sea Level Predictor** — Predicción del nivel del mar hasta 2050 usando regresión lineal
